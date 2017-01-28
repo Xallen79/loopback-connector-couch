@@ -16,8 +16,7 @@
     "nano": "^6.0.2"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-coffee": "^0.12.0"
+
   },
   "repository": {
     "type": "git",
